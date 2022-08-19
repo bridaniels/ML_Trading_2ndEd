@@ -61,3 +61,14 @@
             - Algorithm Executing and Cancelling a Series of Orders to Spoof other HFT Algorithms into Buying (or selling)
             - 
 
+
+# References 
+--- 
+- [The Fundamental Law of Active Management](https://books.google.com/books?hl=en&lr=&id=keA9DwAAQBAJ&oi=fnd&pg=PA161&ots=9jy-n5SQNy&sig=AMb7dF-fVUUsW77EXfFPE5jcbV8#v=onepage&q&f=false), Richard C. Grinold, Streetwise: The Best of the Journal of Portoflio Management pp. 161-178
+- [The Efficiency Gains of Long-Short Investing](https://www.jstor.org/stable/4480281), Richard Grinold and Ronald Kahn, Financial Analysts Journal 2000, pp. 40-53
+- [Trading and Exchanges: Market Microstructure for Practitioners](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708), Larry Harris, Oxford University Press 2003
+- [The Capital Markets: Evolution of the Financial Ecosystem](https://www.amazon.com/Capital-Markets-Evolution-Financial-Ecosystem/dp/1119220548/ref=sr_1_1?crid=1IMMXTTYUYAE8&keywords=the+capital+markets%3A+evolution+of+the+financial+ecosystem&qid=1660946061&s=books&sprefix=the+capital+markets+evolution+of+the+financial+ecosystem%2Cstripbooks%2C51&sr=1-1), Gary Strumeyer, Wiley 2017
+- [High Frequency Trading: Overview of Recent Devleopments](https://sgp.fas.org/crs/misc/R44443.pdf), Rena S. Miller, Congressional Research Service 206
+
+
+
