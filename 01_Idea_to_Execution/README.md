@@ -59,7 +59,28 @@
             - Trade Ahead of a Large Order to Benefit From Subsequent Price Movements 
         - **Momentum Ignition:**
             - Algorithm Executing and Cancelling a Series of Orders to Spoof other HFT Algorithms into Buying (or selling)
-            - 
+
+
+### Factor Investing
+- ROI: function of undertainty or risk associated with investment 
+    - Equity Investment: Business Risk
+    - Bond Investment: Default Risk 
+- Factor: Quantifiable Singal, Attribute, or Variable historically correlated with future returns 
+    - Rational: Factor Risk Premiums Compensate for Low Returns During Bad Times 
+    - Behavioral: Agents Fail to Arbitrage Away Excess Returns 
+
+### Modern Portfolio Theory (MPT)
+- Distinction between Idiosyncratic and Systematic Risk 
+    - Idiosyncratic: Asset Specific Risk (Can Be Diversified Away)
+    - Systematic Risk: Risk Affecting All Assets (Economic, Geopolitical, Financial)
+        - Capital Asset Pricing Model (CAPM): Return on Market Portfolio in Excess of T-Bills 
+            `ExpectedReturnInvestment = RiskFree + Beta(ExpectedReturnMarket - RiskFree)`
+        - *Beta*: volatility measure of asset compared to market     
+        - Risk Premium: based on asset movement in relation to market as a whole -> not individual risks
+
+### Efficient Market Hypothesis (EMH)
+- Share prices reflect all information -> always possible to generate alpha 
+- market equilibrium would always price securities according to CAPM so that no other factors should have predictive power 
 
 
 # References 
