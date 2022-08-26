@@ -1,4 +1,4 @@
-# Chapter 2: Market and Fundamental Data - Sources and tEchniques 
+# Chapter 2: Market and Fundamental Data - Sources and Techniques 
 ---
 ### Technical Analysis: 
 - Extract Signals from Market Data Using Indicators Computed from Price and Volume Information 
@@ -111,3 +111,7 @@
 > [Python: Simplefix](https://github.com/da4089/simplefix)
 > - [How to Download and Parse a Sample File of ITCH Messages](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition/blob/master/02_market_and_fundamental_data/01_NASDAQ_TotalView-ITCH_Order_Book/01_parse_itch_order_flow_messages.ipynb)
 > - [Reconstruct Both the Executed Trades and the Order Book for Any Given Ticker](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition/blob/master/02_market_and_fundamental_data/01_NASDAQ_TotalView-ITCH_Order_Book/02_rebuild_nasdaq_order_book.ipynb)
+> [C++: NASDAQ ITCH 50 Book Constructor](https://github.com/martinobdl/ITCH)
+
+### Trading Physics: ITCH data
+- [Purchase Credits? -> not secure http](http://tradingphysics.com/)
