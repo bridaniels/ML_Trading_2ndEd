@@ -1,5 +1,11 @@
 # Chapter 2: Market and Fundamental Data - Sources and Techniques 
 ---
+> ## Notebooks
+> 1. [NASDAQ TotalView-ITCH Protocol Data](NASDAQ_TotalView-ITCH/)
+> 2. [AlgoSeek Intraday Data](AlgoSeek/)
+> 3. 
+
+
 ### Technical Analysis: 
 - Extract Signals from Market Data Using Indicators Computed from Price and Volume Information 
     - Analyze Flow of Buy and Sell Orders 
