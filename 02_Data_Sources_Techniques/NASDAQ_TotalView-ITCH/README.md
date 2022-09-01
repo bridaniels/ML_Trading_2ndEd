@@ -9,3 +9,8 @@
 - Auctions or Crosses: execute large number of trades at open/close
 > ### LARGE DATASET ~16GB
 > - not essential in remainder of book 
+
+
+## Step 1: clean [message_types.xlsx](message_types.xlsx) file and save to `.csv`
+
+## Step 2: Parse ITCH Data
