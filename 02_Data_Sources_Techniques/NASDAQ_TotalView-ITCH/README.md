@@ -12,5 +12,8 @@
 
 
 ## Step 1: clean [message_types.xlsx](message_types.xlsx) file and save to `.csv`
+- Load Message Types -> Sort By `'id'` -> Drop `'id'`
+- Clean Message Types -> 
+- 
 
 ## Step 2: Parse ITCH Data
