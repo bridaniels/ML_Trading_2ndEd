@@ -106,11 +106,8 @@
             # We already know the Posterior will be a Beta Distribution 
             # Compute Posterior by Addong Acceptabnces and Rejections to Existing Parameters 'Alpha' and 'Beta'
 
-# Cumulative Distribution Function (CDF): probability 'X' will take a value less than or equal to 'x'
-prior = stats.beta.cdf(x=theta_range_prior, a=Alpha, b=Beta) - stats.beta.cdf(x=theta_range, a=Alpha, b=Beta)
 
 
 - **Conjugate Prior**: chosen *Prior Distribution* for the *Likelihood Function* = a *Posterior Distribution* the same as the *Prior Distribution* 
-    - Allows you to skip `posterior = likelihood * prior` computation (if you know it is a conjugate prior)
-    - implied *closed-form expression* for the *prior disribution* (you already know what the maximum posterior will be)
-        - *Closed-Form Expression* = finite number of standard operations
+
+    - implied *closed-form expression* for the *prior disribution* (you 
