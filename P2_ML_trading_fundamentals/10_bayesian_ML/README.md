@@ -1,6 +1,8 @@
 # **Chapter 10: Bayesian Machine Learning - Dynamic Sharpe Ratios and Pairs Trading**
 ---
 
+# [Check out this free Github book thing](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
 ## Classical Statistics: 
 - Frequentist Approach of probability = relative frequency over a period of time
 - Input Data: assumed as a random sample from a population
